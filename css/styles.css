@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.calculator {
+    width: 300px;
+}
+
+input#display {
+    height: 60px;
+    font-size: 24px;
+}
+
+button {
+    font-size: 20px;
+    height: 60px;
+    width: 100%;
+}
+
+.btn-light {
+    background-color: #007bf5;
+    border-color: #0080ff;
+    color: aliceblue;
+}
+
+.watermark {
+    font-size: 14px;
+    color: #888;
+    font-style: italic;
+}
